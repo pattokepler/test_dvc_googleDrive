@@ -1,0 +1,8 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gdrive://1xvKOa2JEtrgFeqlgNLyuzEJ7QwOhsq1V
+['remote "titanic"']
+    url = gdrive://1sXTw4i-Y396S5KfIsEsg2zzA9lQfsPWq
+['remote "nba"']
+    url = ../1jZJs0UrbWXPj-vAiy6DQOrnJiLdFnRsD
